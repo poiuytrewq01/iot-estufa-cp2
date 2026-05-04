@@ -4,7 +4,6 @@ Integrantes:
 
 Artur Pioli — RM565597
 Kevin Martins — RM563454
-Pedro Claes — RM566058
 Matheus Arazin — RM556649
 
 
