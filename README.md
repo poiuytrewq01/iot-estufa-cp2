@@ -79,7 +79,7 @@ Clique em Deploy
 Acesse o dashboard em http://localhost:1880/ui
 
  Vídeo Demonstrativo
-Assistir no YouTube
+Assistir no YouTube https://youtu.be/roP9wdd_tWI?si=hv4ilbp72uGQ9sp5
  Autores
 
 Artur Pioli — RM565597
